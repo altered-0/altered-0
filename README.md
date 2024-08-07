@@ -1,3 +1,4 @@
+![](https://github.com/altered-0/altered-0/blob/main/Dino_non-birthday_version.gif)
 ### Hi, I'm Pablo!
 
 👩🏻‍💻 Django developer <br/>
