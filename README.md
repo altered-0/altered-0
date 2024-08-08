@@ -3,5 +3,5 @@
 
 👩🏻‍💻 Django developer <br/>
 👩🏻‍🎓 Studied Systems Engineering at UTN in Rosario, Santa Fe<br/>
-🎨 Enjoys dystopian literature, mate (its like tee), videogames and coding in free time<br/>
+🎨 Enjoys dystopian literature, mate (its like tea), videogames and coding in free time<br/>
 💭 Currently learning about Securing Django REST APIs with JWT to step up my code and improve old projects! <br/>
